@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Few_number_Functions
+comment1.params=n
+comment1.target=void\ disarium(int)
+comment2.params=n
+comment2.target=void\ special(int)
+comment3.params=n
+comment3.target=void\ magical(int)
+comment4.params=n
+comment4.target=void\ palindrome(int)
+comment5.params=n
+comment5.target=void\ automorphic(int)
+comment6.params=n
+comment6.target=void\ armstrong(int)
+comment7.params=n
+comment7.target=void\ prime(int)
+comment8.params=n
+comment8.target=void\ duck(int)
+numComments=9
